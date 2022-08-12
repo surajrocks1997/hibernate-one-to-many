@@ -30,7 +30,6 @@ public class Course {
 	}
 
 	public Course(String title) {
-		super();
 		this.title = title;
 	}
 
